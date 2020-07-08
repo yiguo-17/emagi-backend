@@ -7,6 +7,8 @@ Today we're going to make the back end for an app that can convert words to emoj
 
 ### Workflow
 
+The three functions you'll have to write are NOT in order in the test terminal results. Tackle them in whatever order you want to!
+
 For each test, you'll have to:
 
 1. Create a file with the name from the test. For `emagify.test.js`, your file is going to be called `emagify.js`, and so on.
